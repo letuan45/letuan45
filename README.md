@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextJS, NestJS<br>🤝 I’m in love in Software Development and Machine Learning<br>🌱 I’m currently learning NextJS, NestJS
+🔭 I’m currently working on NextJS, NestJS, Wordpress Frelancer<br>🤝 I’m in love in Software Development and Machine Learning<br>🌱 I'm getting hang of DevOps
 
 
 ## 🌐 Socials:
